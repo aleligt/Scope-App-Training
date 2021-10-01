@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="House of Baby Spice" max_length="40" name="x_snc_spicexxxxxxx_house_of_baby_spice" type="collection">
+        <element label="ID Number" max_length="40" name="id_number" type="integer"/>
+    </element>
+</database>
